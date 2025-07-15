@@ -65,10 +65,3 @@ fun assignRandom(y: Int, x: Int): Int {
 
     return (lower..upper).random()
 }
-
-//     +10 | -10
-// 11 | 20 = 21 | 10
-// 10 | 20 = 20 | 10
-// 15 | 15 = 25 | 5
-// 10 | 30 = 20 | 20
-// 0 | 25 = 10 | 15
