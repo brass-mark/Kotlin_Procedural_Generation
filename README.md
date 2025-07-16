@@ -1,4 +1,4 @@
-# Kotlin_Procedural_Generation
+# Kotlin Procedural Generation
 A small Kotlin program that generates a very basic 2D list that represents longitude and latitude on the map as the x and y indexes and the altitude as the values in the lists.
 
 ## How are the values represented?
